@@ -1,5 +1,3 @@
-repAIr Skin – AI-Powered Skincare App
-
 repAIr Skin is an iOS app that utilizes machine learning and computer vision technologies to offer personalized skincare solutions. The app detects skin types and acne through real-time facial scans and recommends suitable skincare products based on the analysis.
 
 Developed using SwiftUI, integrated with YOLOV8 model for skin analysis.
